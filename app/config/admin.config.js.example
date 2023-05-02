@@ -1,0 +1,5 @@
+module.exports = {
+  USER: "admin", // FILL WITH A WORDPRESS ADMIN CREDENTIAL!!!
+  PASSWORD: "",
+  WORDPRESS_URL: "https://example.com" // NO TRAILING BACKSLASH
+};
